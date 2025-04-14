@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 89f11d8f14f814346b61c6d9ae660928
+  - enabled: 1
+    path: Assets/Scenes/mountain_level.unity
+    guid: bab3c1be833a2ec48a7778e5c5267405
+  - enabled: 1
+    path: Assets/Scenes/cave_level.unity
+    guid: afda3f95baa3624458d2847226f79577
+  - enabled: 1
+    path: Assets/Scenes/chess_minigame.unity
+    guid: d5379906bd929bc489bfb2e505e87c62
+  - enabled: 1
+    path: Assets/Scenes/LoadLeaderboard.unity
+    guid: 58150bb171e504943aec0070a4c4442d
+  - enabled: 1
+    path: Assets/Scenes/SaveScore.unity
+    guid: 7760382470e11d1469cc3dbbdc16af70
+  - enabled: 1
+    path: Assets/Scenes/mountain_level_won.unity
+    guid: 5e6001d9b1af44343b69d536e275ec85
+  m_configObjects: {}
